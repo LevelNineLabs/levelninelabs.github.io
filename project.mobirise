@@ -39,8 +39,8 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "nw1ahvzyp3",
+    "favicon": "@PROJECT_PATH@/assets/images/230322-level-9-branding-jh-v3-design-27-128x124.png",
+    "mbrsiteDomain": "myubhovqfs",
     "canonical-url": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
