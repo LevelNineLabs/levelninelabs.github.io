@@ -77,8 +77,7 @@
         "meta_descr": "Level Nine. Next generation biomanufacturing.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/level-nine-1920x1080.png"
+        "html_before": ""
       },
       "components": [
         {
